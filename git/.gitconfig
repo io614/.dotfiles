@@ -1,0 +1,15 @@
+[user]
+  email = 20940206+io614@users.noreply.github.com.
+  name = io614
+
+[alias]
+  gd = log --graph --oneline --all --decorate
+  s = status -s
+  st = status
+  co = checkout
+  h = help
+
+[core]
+  editor = vim
+[credential]
+  helper = store
